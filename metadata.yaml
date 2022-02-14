@@ -1,0 +1,35 @@
+_repo: Napoleon-en-Chamartin_67360
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Perez Galdos, Benito
+    - Galdós, Benito Pérez
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+    - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
+description: ''
+gutenberg_issued: '2022-02-08'
+identifiers:
+  gutenberg: '67360'
+language: es
+pgterms:marc904: https://archive.org/details/napolenenchamart00prez
+pgterms:marc905: 20201205214445prezgalds
+pgterms:marc906: '1907'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: Spain :Librería de los Sucesores de Hernando,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Napoleón en Chamartín
+url: http://www.gutenberg.org/ebooks/67360
